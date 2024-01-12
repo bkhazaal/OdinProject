@@ -15,6 +15,12 @@
             "request": "launch",
             "name": "Open odin2.html",
             "file": "c:\\Users\\ThaJu\\Desktop\\Odin\\OdinProject\\odin2.html"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open recipe.html",
+            "file": "c:\\Users\\ThaJu\\Desktop\\Odin\\OdinProject\\recipe.html"
         }
     ]
 }
