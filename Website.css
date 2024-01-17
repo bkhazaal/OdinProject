@@ -39,8 +39,8 @@ nav {
 }
 
 .paragraph {
-    display: flex;
     float: left;
+    display: flex;
     margin-top: 40px;
     font-size: 20px;
     font-family: sans-serif;
